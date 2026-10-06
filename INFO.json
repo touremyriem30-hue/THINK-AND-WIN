@@ -1,0 +1,77 @@
+[ 
+    
+    {  
+        "QUESTION" : "Tu découvres que ton chat sait parler. Quelle est la première chose intelligente à faire ?",
+        "OPTION" : ["Lui apprendre à cuisiner", "L'inscrire à l'école", "Lui demander où il cache tous les objets perdus", "Ouvrir une chaîne YouTube"],
+        "REPONSE" : "Lui demander où il cache tous les objets perdus",
+        "NIVEAU": "Facile"
+    },
+       
+    {   
+        "QUESTION" : "Si les poules pouvaient voter, quel serait probablement leur sujet de campagne ?",
+        "OPTION" : ["Plus de renards", "Plus d'œufs de luxe", "Plus d'espace dans les poulaillers", "Des cours de mathématiques"],
+        "REPONSE" : "Plus d'espace dans les poulaillers",
+        "NIVEAU": "Facile"
+    },   
+       
+       
+    {   
+        "QUESTION" : "Quel superpouvoir est le moins utile pour chercher ses clés ?",
+         "OPTION" : ["Lire dans les pensées", "Devenir invisible", "Voir à travers les murs", "Arrêter le temps"],
+         "REPONSE" : "Devenir invisible",
+         "NIVEAU": "Facile"
+    },
+    
+    
+    {
+ 
+        "QUESTION" : "Tu peux voyager dans le temps une seule fois. Quel est le choix le plus risqué ?",
+         "OPTION" : ["Voir les pyramides en construction", "Rencontrer Léonard de Vinci", "Acheter une action célèbre", "Dire à ton toi du passé de tout changer"],
+         "REPONSE" : "Dire à ton toi du passé de tout changer",
+         "NIVEAU": "Difficile"
+    },
+
+    
+    {
+ 
+        "QUESTION" : "Dans un concours de mensonge, quelle phrase est la plus difficile à vérifier ?",
+         "OPTION" : ["J'ai un chien", "J'ai gagné au loto", "Je pensais exactement à cette question avant de la lire", "J'habite dans une grande maison"],
+         "REPONSE" : "Je pensais exactement à cette question avant de la lire",
+         "NIVEAU": "Difficile"
+    },
+
+
+    {
+ 
+        "QUESTION" : "Si tout le monde pouvait entendre tes pensées pendant une minute, quelle activité deviendrait la plus dangereuse ?",
+         "OPTION" : ["Faire les courses", "Dormir", "Regarder un mur", "Arroser une plante"],
+         "REPONSE" : "Faire les courses",
+         "NIVEAU": "Difficile"
+    },
+
+
+    {
+ 
+        "QUESTION" : "Quel objet est probablement responsable du plus grand nombre de petites crises de panique dans la vie quotidienne ?",
+         "OPTION" : ["Une cuillère", "Les clés", "Une chaussure", "Un coussin"],
+         "REPONSE" : "Les clés",
+         "NIVEAU": "Très difficile"
+    },
+
+
+    {
+ 
+        "QUESTION" : "Quel métier serait le plus compliqué si les gens devenaient soudainement totalement honnêtes ?",
+         "OPTION" : ["Magicien", "Jardinier", "Boulanger", "Plombier"],
+         "REPONSE" : "Magicien",
+         "NIVEAU": "Très difficile"
+    },
+
+    {
+ 
+        "QUESTION" : "Dans une course, tu dépasses le dernier concurrent.Quelle est ta position ?",
+         "OPTION" : ["Avant-dernier", "Dernier", "Premier", "Impossible"],
+         "REPONSE" : "Impossible",
+         "NIVEAU": "Très difficile"
+    }
+]
